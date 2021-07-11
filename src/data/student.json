@@ -1,0 +1,29 @@
+[
+    {
+        "studentId": 1,
+        "studentName": "Student 1",
+        "subject1": 80,
+        "subject2": 60,
+        "subject3": 70,
+        "subject4": 55,
+        "subject5": 85
+    },
+    {
+        "studentId": 2,
+        "studentName": "Student 2",
+        "subject1": 90,
+        "subject2": 60,
+        "subject3": 70,
+        "subject4": 65,
+        "subject5": 55
+    },
+    {
+        "studentId": 3,
+        "studentName": "Student 3",
+        "subject1": 90,
+        "subject2": 70,
+        "subject3": 40,
+        "subject4": 55,
+        "subject5": 55
+    }
+]
